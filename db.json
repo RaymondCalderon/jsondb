@@ -1,127 +1,111 @@
 {
 
-  "Productos": [
-    {
-      "idProducto": 1,
-      "Nombre": "Tracy Vick",
-      "Tipo": "Consumible",
-      "PVenta": 14.6766,
-      "PCoste": 9.0802,
-      "Codigo": "Love",
-      "Proveedor": "franklin@carter.pk",
-      "Stock": 7,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 2,
-      "Nombre": "Natalie Stuart",
-      "Tipo": "Consumible",
-      "PVenta": 13.0837,
-      "PCoste": 8.7879,
-      "Codigo": "Atkins",
-      "Proveedor": "kara@alston.ml",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 3,
-      "Nombre": "Eva Sherrill",
-      "Tipo": "Consumible",
-      "PVenta": 16.4787,
-      "PCoste": 9.8712,
-      "Codigo": "Clements",
-      "Proveedor": "carol@burgess.tg",
-      "Stock": 1,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 4,
-      "Nombre": "Hazel Alexander",
-      "Tipo": "Consumible",
-      "PVenta": 12.181,
-      "PCoste": 8.3674,
-      "Codigo": "McConnell",
-      "Proveedor": "regina@boykin.ml",
-      "Stock": 0,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 5,
-      "Nombre": "Gayle Floyd",
-      "Tipo": "Consumible",
-      "PVenta": 14.4915,
-      "PCoste": 8.31,
-      "Codigo": "Francis",
-      "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    }
-  ],
-  "Reglas": [
-    {
-      "idRegla": 1,
-      "Nombre": "Kevin Hewitt",
-      "idProducto": 1,
-      "CantidadMin": 7.9335,
-      "CantidadMax": 47.4501,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idRegla": 2,
-      "Nombre": "Jennifer Singleton",
-      "idProducto": 2,
-      "CantidadMin": 9.1201,
-      "CantidadMax": 21.3855,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idRegla": 3,
-      "Nombre": "Marion Barr",
-      "idProducto": 3,
-      "CantidadMin": 9.0701,
-      "CantidadMax": 44.473,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idRegla": 4,
-      "Nombre": "Neal Finch",
-      "idProducto": 4,
-      "CantidadMin": 9.2918,
-      "CantidadMax": 30.3569,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idRegla": 5,
-      "Nombre": "Diana Beck",
-      "idProducto": 5,
-      "CantidadMin": 8.9041,
-      "CantidadMax": 42.8234,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    }
-  ]
+  "data" =
+        [
+            {
+                "id": 0,
+                "name": "test0",
+                "price": "$0"
+            },
+            {
+                "id": 1,
+                "name": "test1",
+                "price": "$1"
+            },
+            {
+                "id": 2,
+                "name": "test2",
+                "price": "$2"
+            },
+            {
+                "id": 3,
+                "name": "test3",
+                "price": "$3"
+            },
+            {
+                "id": 4,
+                "name": "test4",
+                "price": "$4"
+            },
+            {
+                "id": 5,
+                "name": "test5",
+                "price": "$5"
+            },
+            {
+                "id": 6,
+                "name": "test6",
+                "price": "$6"
+            },
+            {
+                "id": 7,
+                "name": "test7",
+                "price": "$7"
+            },
+            {
+                "id": 8,
+                "name": "test8",
+                "price": "$8"
+            },
+            {
+                "id": 9,
+                "name": "test9",
+                "price": "$9"
+            },
+            {
+                "id": 10,
+                "name": "test10",
+                "price": "$10"
+            },
+            {
+                "id": 11,
+                "name": "test11",
+                "price": "$11"
+            },
+            {
+                "id": 12,
+                "name": "test12",
+                "price": "$12"
+            },
+            {
+                "id": 13,
+                "name": "test13",
+                "price": "$13"
+            },
+            {
+                "id": 14,
+                "name": "test14",
+                "price": "$14"
+            },
+            {
+                "id": 15,
+                "name": "test15",
+                "price": "$15"
+            },
+            {
+                "id": 16,
+                "name": "test16",
+                "price": "$16"
+            },
+            {
+                "id": 17,
+                "name": "test17",
+                "price": "$17"
+            },
+            {
+                "id": 18,
+                "name": "test18",
+                "price": "$18"
+            },
+            {
+                "id": 19,
+                "name": "test19",
+                "price": "$19"
+            },
+            {
+                "id": 20,
+                "name": "test20",
+                "price": "$20"
+            }
+        ]
 }
